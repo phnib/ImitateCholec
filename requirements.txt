@@ -1,0 +1,19 @@
+# Core ML/DL frameworks
+torch==2.7.1
+torchvision==0.22.1
+numpy==2.3.0
+scipy==1.15.3
+
+# Data handling and processing
+pandas==2.3.0
+pillow==11.2.1
+opencv-python==4.11.0.86
+
+# Scientific computing
+matplotlib==3.10.3
+
+# ML utilities
+tqdm==4.67.1
+
+# Environment and configuration
+python-dotenv==1.1.0
