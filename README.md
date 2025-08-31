@@ -69,5 +69,5 @@ data/
 
 ## ⚖️ License
 
-- **Data**: CC BY-NC-SA 4.0  
+- **Data**: CC BY 4.0  
 - **Code**: MIT License
